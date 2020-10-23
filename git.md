@@ -13,5 +13,5 @@
 ## git pull [origin] [master] ---> Descarga e incorpora los cambios del repositorio remoto.
 ## git branch <branch_name> ---> Crea una nueva rama.
 ## git branch -l ---> Muestra las ramas existentes.
-## git branch -v ---> Muestra con más detalle las ramas existentes.
+## git branch --v ---> Muestra con más detalle las ramas existentes.
 ## git merge <branch_name> -m "message" ---> Crea un nuevo commit que añade la rama especificada a la rama activa.
